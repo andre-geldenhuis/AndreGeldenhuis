@@ -28,7 +28,9 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-
+- description: 
+  icon: slurm
+  name: Slurm
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
