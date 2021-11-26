@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 
-  icon: Python
+  icon: python
   icon_pack: fas
   name: Python
 
