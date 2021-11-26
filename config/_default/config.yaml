@@ -5,7 +5,7 @@
 
 title: Andre Geldenhuis # Website name
 baseurl: 'https://andre-geldenhuis.netlify.app/' # Website URL
-copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Andre Geldenhuis' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
