@@ -29,7 +29,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: 
-  icon: slurm
+  icon: org-gc
   name: Slurm
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
